@@ -91,7 +91,7 @@ Book List for Learning Endeavors
 [16]: https://a.co/d/4ILDB3r
 [17]: https://a.co/d/4pmc80d
 [18]: https://a.co/d/7SlbSZ9
-[19] https://a.co/d/eVhzNFa
+[19]: https://a.co/d/eVhzNFa
 [20]: https://a.co/d/fgxJA9s
 [21]: https://a.co/d/1YA2uBC
 [22]: https://a.co/d/dDoNmZv
