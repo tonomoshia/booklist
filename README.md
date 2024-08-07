@@ -49,7 +49,7 @@ Book List for Learning Endeavors
 - [The Autobiography of Malcolm X: As Told to Alex Haley][28]
 - [Blood Brothers: The Fatal Friendship between Muhhamad Ali and Malcolm X by Randy Roberts and Johnny Smith][29]
 - [Revolutionary Suicide by Huey P. Newton][30]
-- [Master Slave Husband Wife: An Epic Journey from Slavery to Freedom by Ilyon Woo][31] Winner of 2024 Pulitzer Prize)
+- [Master Slave Husband Wife: An Epic Journey from Slavery to Freedom by Ilyon Woo][31] (Winner of 2024 Pulitzer Prize)
 - [Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II by Douglas A. Blackmon][32]
 - [The Hemingses of Monticello: An American Family by Annette Gordon-Reed][33] (Winner, 2008 National Book Award and 2008 Pulitzer Prize)
 - [The Three Mothers: How the Mothers of Martin Luther King, Jr., Malcolm X, and James Baldwin Shaped a Nation by Anna Malaika Tubbs][34]
