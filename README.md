@@ -30,7 +30,7 @@ Book List for Learning Endeavors
 
 ## Minimalism
 - [Project 333: The Minimalist Fashion Challenge That Proves Less Really is So Much More by Courtney Carver][1]
-- [Minimalism: Live a Meaningful Life by Joshua Fields Millbur nand Ryan Nicodemus]][2]
+- [Minimalism: Live a Meaningful Life by Joshua Fields Millbur nand Ryan Nicodemus][2]
 - [The Joy of Less, A Minimalist Living Guide How to Declutter, Organize, and Simplify Your Life by Francine Jay][5]
 - [The Minimalist Home: A Room-by-Room Guide to a Decluttered, Refocused Life by  Joshua Becker][4]
 - [The Life Changing Magic of Tidying Up The Japanese Art of Decluttering and Organizing (The Life Changing Magic of Tidying Up) by Marie Kondō ][20]
