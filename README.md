@@ -68,7 +68,7 @@ Book List for Learning Endeavors
 ## Stoicism
 - [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living by Ryan Holiday and Stephen Hanselman][18]
 - [Meditations by Marcus Aurelius][19]
-- 
+  
 ## Legal Research
 -[A Short & Happy Guide to Advanced Legal Research (Short & Happy Guides) by Ann Long][13]
 
